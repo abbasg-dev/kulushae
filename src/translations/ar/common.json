@@ -1,0 +1,136 @@
+{
+    "title": "كل شيء",
+    "common": {
+        "congratulations" : "تهاني",
+        "great": "رائع",
+        "verify" : "تحقق"
+    },
+    "header": {
+        "about": "معلومات عنا",
+        "contact": "اتصل بنا",
+        "category": "الفئة",
+        "country": "البلد",
+        "post_ad": "نشر إعلان",
+        "login_sign_up": "تسجيل الدخول أو انشاء حساب"
+    },
+    "hero" : {
+        "intro": "اشتري وبيع أي شيء تريده",
+        "vehicles": "واسطة نقل",
+        "search-vehicles": "ابحث عن واسطات النقل الجديدة والمستعملة",
+        "start": "ابدأ",
+        "get-started": "ابدأ في تلبية حاجتك"
+    },
+    "categories": {
+        "title": "اختر فئتك"
+    },
+    "featuredAds": {
+        "title": "إعلانات مميزة",
+        "load": "تحميل المزيد..."
+    },
+    "footer": {
+        "location": "مكتب 1001، برج يو بورا، الخليج التجاري، دبي، الإمارات العربية المتحدة",
+        "supports": {
+            "title": "الدعم",
+            "faqs": "الأسئلة الشائعة",
+            "pricing-plans": "خطط التسعير",
+            "sitemap": "خريطة الموقع"
+        },
+        "quick-links": {
+            "title": "روابط سريعة",
+            "get-membership": "الحصول على العضوية",
+            "post-ads": "أنشر إعلانًا",
+            "blog": "مدونة"
+        },
+        "category": {
+            "mobile": "الجوّال",
+            "electronics": "إلكترونيات",
+            "property": "عقارات"
+        },
+        "download": {
+            "title": "قم بتنزيل تطبيقنا",
+            "get-now": "احصل عليه الآن",
+            "google-play": "جوجل بلاي",
+            "app-store": "اب ستور"
+        },
+        "copyrights": {
+            "classification": "قائمة سرية",
+            "rights-reserved": "جميع الحقوق محفوظة",
+            "privacy-policy": "سياسة الخصوصية",
+            "terms-conditions": "الشروط والأحكام"
+        }
+    },
+    "authentication": {
+        "login": {
+            "login": "تسجيل الدخول",
+            "social": {
+                "email": "البريد الالكتروني",
+                "phone_number": "رقم الهاتف",
+                "facebook": "فيس بوك",
+                "google": "جوجل",
+                "apple": "أبل",
+                "continue_with": "أكمل مع"
+            },
+            "agreement-statement": "<span id='custom_full_span'>من خلال المتابعة ، فإنك توافق على <span id='custom_sub_span'> شروط الخدمة</span> الخاصة بنا وتقر بأنك قد قرأت <span id='custom_sub_span'>سياسة الخصوصية </span> الخاصة بنا لمعرفة كيفية جمع بياناتك واستخدامها ومشاركتها</span>",
+            "new-here": "جديد هنا؟",
+            "password": "كلمة السر",
+            "email_format": "البريد الالكتروني غير صالح",
+            "email_required": "البريد الكتروني الزامي",
+            "password_required": "كلمة السر الزامية",
+            "mobile": "الجوّال",
+            "forgot_pass": "نسيت كلمة المرور",
+            "click_here": "انقر هنا",
+            "with_email": "مع البريد الإلكتروني",
+            "with_phone_number": "مع رقم الهاتف",
+            "create_account": "إنشاء حساب",
+            "invalid_no_phone": "رقم الهاتف غير صالح",
+            "phone_no_required": "رقم الهاتف الزامي",
+            "login_success" : "تم تسجيل الدخول بنجاح"
+        },
+        "register": {
+            "create_account": "سجل حساب",
+            "sign_up": "سجل",
+            "sign_in": "تسجيل الدخول",
+            "first_name": "الاسم الأول",
+            "last_name": "اسم العائلة",
+            "first_name_required": "الاسم الأول الزامي",
+            "last_name_required": "اسم العائلة الزامي",
+            "have_account": "لديك حساب؟",
+            "otp_code": "التوثيق بالرقم السري المتغير",
+            "otp_sent_msg": "تم إرسال الرمز إلى رقم هاتفك المحمول المسجل",
+            "register_success" : "لقد سجلت بنجاح",
+            "otp": {
+                "otp_validate" : "يجب أن يكون الرمز بالضبط 6 أرقام",
+                "otp_required" : "أدخل الرمز",
+                "code_sent": "تم إرسال الرمز إلى الرقم",
+                "resend_code" : "اعادة ارسال الرمز",
+                "seconds" : "ثواني",
+                "in": "خلال",
+                "user_exist": "المستخدم موجود بالفعل",
+                "user_not_exist": "المستخدم غير موجود",
+                "recaptcha_expired" : "ريكابتشا منتهية الصلاحية",
+                "something_wrong": "حدث خطأ ما",
+                "verify_phone": "تحقق من رقم هاتفك",
+                "home_redirect": "إعادة توجيه إلى الصفحة الرئيسية"
+            }
+        },
+        "forget_password": {
+            "forget_pwd": "نسيت كلمة المرور",
+            "continue": "أكمل",
+            "email_sent_msg": "كل شيءأرسل لك بريدا إلكترونيا وأعد تعيين كلمة المرور الخاصة بك هناك."
+        },
+        "create_password": {
+            "create_new_pass": "إنشاء كلمة مرور جديدة",
+            "new_password": "كلمة مرور جديدة",
+            "confirm_password": "تأكيد كلمة المرور",
+            "new_password_required": "كلمة المرور الجديدة الزامية",
+            "confirm_password_required": "تأكيد كلمة المرور الزامية",
+            "new_password_created": "تم إنشاء كلمة مرور جديدة بنجاح",
+            "passwords_must_match": "يجب أن تتطابق كلمات المرور",
+            "update_pass_failed": "فشل تحديث كلمة المرور"
+        }
+    },
+    "post-ad": {
+        "place-ad": "أضف اعلان",
+        "description": "قم بتضمين أكبر قدر ممكن من التفاصيل والصور ، وحدد السعر المناسب!"
+    }
+}

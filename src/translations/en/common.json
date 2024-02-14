@@ -1,0 +1,136 @@
+{
+    "title": "Kulushae",
+    "common": {
+        "congratulations" : "Congratulations",
+        "great": "Great",
+        "verify" : "Verify"
+    },
+    "header": {
+        "about": "About",
+        "contact": "Contact",
+        "category": "Category",
+        "country": "Country",
+        "post_ad": "Post Ad",
+        "login_sign_up": "Login or Sign up"
+    },
+    "hero": {
+        "intro": "Buy and sell anything you want",
+        "vehicles": "vehicles",
+        "search-vehicles": "Search new and used vehicles",
+        "start": "Get Started",
+        "get-started": "Get started for your need"
+    },
+    "categories": {
+        "title": "Get your category"
+    },
+    "featuredAds": {
+        "title": "Featured Ads",
+        "load": "Load more..."
+    },
+    "footer": {
+        "location": "Office 1001, U-bora Tower, Business Bay Dubai, United Arab Emirates",
+        "supports": {
+            "title": "Supports",
+            "faqs": "FAQs",
+            "pricing-plans": "Pricing Plans",
+            "sitemap": "Sitemap"
+        },
+        "quick-links": {
+            "title": "Quick Links",
+            "get-membership": "Get Membership",
+            "post-ads": "Post a Ads",
+            "blog": "Blog"
+        },
+        "category": {
+            "mobile": "Mobile",
+            "electronics": "Electronics",
+            "property": "Property"
+        },
+        "download": {
+            "title": "Download our app",
+            "get-now": "Get it Now",
+            "google-play": "Google Play",
+            "app-store": "App Store"
+        },
+        "copyrights": {
+            "classification": "Classified Listing",
+            "rights-reserved": "All rights reserved",
+            "privacy-policy": "Privacy Policy",
+            "terms-conditions": "Terms & Condition"
+        }
+    },
+    "authentication": {
+        "login": {
+            "login": "Login",
+            "social": {
+                "email": "Email",
+                "phone_number": "Phone Number",
+                "facebook": "Facebook",
+                "google": "Google",
+                "apple": "Apple",
+                "continue_with": "Continue with"
+            },
+            "agreement-statement": "<span id='custom_full_span'>By continuing, you agree to our <span id='custom_sub_span'>Terms of Service</span> and acknowledge that you have read our <span id='custom_sub_span'>privacy policy</span> to learn how we collect, use, and share your data.</span>",
+            "new-here": "New here?",
+            "password": "Password",
+            "email_format": "Invalid email format",
+            "email_required": "Email is required",
+            "password_required": "Password is required",
+            "mobile": "Mobile",
+            "forgot_pass": "Forgot Password",
+            "click_here": "Create an account",
+            "with_email": "with Email",
+            "with_phone_number": "with Phone Number",
+            "create_account": "Create an account",
+            "invalid_no_phone": "Invalid phone number",
+            "phone_no_required": "Phone number is required",
+            "login_success" : "You’ve logged in successfully"
+        },
+        "register": {
+            "create_account": "Create Account",
+            "sign_up": "Sign up",
+            "sign_in": "Sign in",
+            "first_name": "First Name",
+            "last_name": "Last Name",
+            "first_name_required": "First Name is required",
+            "last_name_required": "Last Name is required",
+            "have_account": "Already have an account?",
+            "otp_code": "OTP Code",
+            "otp_sent_msg": "has been sent to your registered mobile number",
+            "register_success" : "You’ve registered successfully",
+            "otp": {
+                "otp_validate" : "OTP Code must be exactly 6 digits",
+                "otp_required" : "OTP Code is required",
+                "code_sent": "Code has been send to",
+                "resend_code" : "Resend code",
+                "seconds" : "seconds",
+                "in": "in",
+                "user_exist": "User already exist",
+                "user_not_exist": "User does not exist",
+                "recaptcha_expired" : "reCAPTCHA expired",
+                "something_wrong": "Something went wrong",
+                "verify_phone": "Verify your phone number",
+                "home_redirect": "Redirect to home page"
+            }
+        },
+        "forget_password": {
+            "forget_pwd": "Forget Password",
+            "continue": "Continue",
+            "email_sent_msg": "Kulushae has sent you email and reset your password there."
+        },
+        "create_password": {
+            "create_new_pass": "Create new password",
+            "new_password": "New Password",
+            "confirm_password": "Confirm Password",
+            "new_password_required": "New Password is required",
+            "confirm_password_required": "Confirm Password is required",
+            "new_password_created": "New Password created successfully",
+            "passwords_must_match": "Passwords must match",
+            "update_pass_failed": "Update password failed"
+        }
+    },
+    "post-ad": {
+        "place-ad": "Place Ad",
+        "description": "Include as much details and pictures as possible, and set the right price!"
+    }
+}

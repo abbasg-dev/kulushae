@@ -1,0 +1,18 @@
+@import 'styles/variables.scss';
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+body {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0!important;
+}
+
+.rtl-layout {
+    direction: rtl;
+}
